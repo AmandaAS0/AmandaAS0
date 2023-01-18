@@ -1,16 +1,15 @@
-### Hi there 👋
+# Ola Pessoal
 
-<!--
-**AmandaAS0/AmandaAS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Amanda, estudando de programação backend desde 2021 e a cada momento me apaixono mais por programação e tecnologia. Acredito que compartilhar conhecimento é essencial pra se tormar melhor. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Para me encontrar: [Amanda Aguiar](DIGITAR AQUI O LINK DO YOUTUBE)
+Youtube, linkedin
+
+
+
+Hard Skill:
+  Javascript, NodeJS, Python, 
+  
+Gráfico
