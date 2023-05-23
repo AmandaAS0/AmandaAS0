@@ -18,7 +18,7 @@ Tecnologias e Ferramentas
 
 
 
-[![](	https://github-readme-stats.vercel.app/api?username=AmandaAS0&theme=blue-green)]  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAS0&theme=blue-green)]
+![](	https://github-readme-stats.vercel.app/api?username=AmandaAS0&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAS0&theme=blue-green)
 
 
 
