@@ -6,9 +6,9 @@
 *Compartilhar faz parte do aprendizado.*
 
 
-💻 Meu nome é Amanda, estudo programção desde 2021 e a cada momento me apaixono mais pela tecnologia. 
+💻 Meu nome é Amanda, estudo programção desde 2021 e a cada momento me apaixono mais pela tecnologia e sigo buscando a minha primeira vaga como dev. 
 
-🎓 Formações: Cubos Academy, 'Desenvolvimento de Software com foco em Backend', buscando a minha primeira vaga como dev.  
+🎓 Formações: FAM cursando 'Análise e Desenvolvimento de Sistemas', Cubos Academy - 'Desenvolvimento de Software com foco em Backend', Resilia Educação - 'Analista de Dados'.  
 
 🔎 Interesses: Nos meus tempos livres gosto de montar o telescópio e observar o céu noturno, tocar violino, praticar motocross e maratonar séries.
 
